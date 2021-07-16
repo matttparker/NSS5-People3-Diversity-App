@@ -1,0 +1,2 @@
+"0","acs5_vars <- load_variables(year = 2017, dataset = ""acs5"")"
+"0","View(acs5_vars)"

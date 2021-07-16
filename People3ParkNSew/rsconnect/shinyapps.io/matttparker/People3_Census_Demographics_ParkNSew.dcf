@@ -1,0 +1,12 @@
+name: People3_Census_Demographics_ParkNSew
+title: People3_Census_Demographics_ParkNSew
+username:
+account: matttparker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3418509
+bundleId: 4009478
+url: https://matttparker.shinyapps.io/People3_Census_Demographics_ParkNSew/
+when: 1608397259.88848
+asMultiple: FALSE
+asStatic: FALSE

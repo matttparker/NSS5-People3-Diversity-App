@@ -1,0 +1,5 @@
+"0","test_vars <- listCensusMetadata("
+"0","    name = ""acs/acs5"", "
+"0","    type = ""variables"","
+"0","    vintage=2018)"
+"0","View(test_vars)"

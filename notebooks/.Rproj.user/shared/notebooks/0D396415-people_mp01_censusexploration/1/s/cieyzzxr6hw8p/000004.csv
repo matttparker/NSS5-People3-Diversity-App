@@ -1,0 +1,8 @@
+"0","# Race by Ethnicity"
+"0","census_rh <- getCensus(key = CENSUS_KEY,"
+"0","                       name = ""timeseries/qwi/rh"","
+"0","                       vars = c(""EarnS"",""ethnicity"", ""race"", ""geo_level"", ""geography"", ""year""),"
+"0","                       region = ""county:037"","
+"0","                       regionin = ""state:47"","
+"0","                       time = ""from 2000 to 2017"")"
+"0","head(census_rh)"
